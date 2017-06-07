@@ -14,7 +14,7 @@ Hopefully this will help other parents/children out there! :)
 
 ---
 
-This repo contains the original OmniGraffle file, as well as a printable PDF and high resolution PNG.
+This repo contains the original OmniGraffle file, as well as: PDF, PNG, SVG.
 
 Here's a visual preview…
 
