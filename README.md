@@ -1,6 +1,6 @@
 # 16x16 Times Table
 
-This is a simple 16x16 grid, for learning multiplication.
+This is a simple 16x16 times table, for learning multiplication.
 
 I made it for my 8yr old son, who wanted a "computing" number grid of 16x16.
 
